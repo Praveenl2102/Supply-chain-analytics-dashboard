@@ -220,7 +220,7 @@ Aspiring Data Analyst | Power BI Developer | SQL Enthusiast
 
 💼 LinkedIn: www.linkedin.com/in/madineni-praveen-kumar
 
-🐙 GitHub: https://github.com/your-github-username
+🐙 GitHub:https://github.com/Praveenl2102
 
 ---
 
